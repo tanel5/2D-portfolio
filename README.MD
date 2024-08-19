@@ -1,8 +1,8 @@
 # Developer portfolio that's a 2D game
 
-Inspired by the many creative 3D developer portfolios, I create one that's 2D instead.
-This is meant as a template that you can use to build your own. It works on both desktop
-and mobile.
+This is a portfolio web app presented as 2d pixel top down video game. You can move a charachter on a screen through clicking or screen touch and interact with element in the background which present aspect if the portfolio and resume. The app use node.js and the library kaboom.js and is written in javascript.
+
+Ceci est une web app portfolio présentée sous la forme d'un jeu vidéo en 2d vue du dessus. Vous pouvez déplacer un personnage sur un écran en cliquant ou en touchant l'écran et intéragir avec des éléments du décor qui présente les différents aspects du portfolio et du resumé. Cette app utilise node.js et la librairie kaboom.js qui sert à faire des jeux en javascript. 
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
