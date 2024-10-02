@@ -8,7 +8,7 @@ export const dialogueData = {
     "sofa-table": `Voici mon canapé ou je me detends, regarde des vidéos ou je joue à des jeux videos`,
     tv: `Voici ma télévision. je regarde beaucoup de tutoriel dessus.`,
     bed: `Voici ou je dors. De grandes idées viennent quand je m'allonge sur le lit.`,
-    resume: `voici mon bureau et mon CV. <a href="https://github.com/tanel5/2D-portfolio/public/NATHANIEL HADDAD (1).png" target="_blank">Clickez si ca vous interesse?</a>`,
+    resume: `voici mon bureau et mon CV. <a href="https://github.com/tanel5/2D-portfolio/blob/main/public/NATHANIEL%20HADDAD%20(1).png" target="_blank">Clickez si ca vous interesse?</a>`,
     projects: `Information à propos de ce portfolio: il est fait avec la librairie Kaboom.js qui est une librairie pour faire des jeux en javascript.
     le texte est rendu avec HTML/CSS.`,
     library: `Il y a beaucoup de livre de programmation sur cet étagère. `,
